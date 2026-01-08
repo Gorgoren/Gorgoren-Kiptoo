@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AquaFlow - Smart Water Billing",
+  "description": "A comprehensive mobile-first water billing and management system with AI-powered usage insights and leak detection alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
